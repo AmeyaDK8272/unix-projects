@@ -1,0 +1,33 @@
+=====================================
+    LOG ANALYSIS REPORT
+=====================================
+File Analyzed : app.log
+Generated At : Sunday 24 May 2026 06:12:15 PM IST
+-------------------------------------
+
+__SUMMARY_____________________
+Total Entries : 100
+Errors        : 30
+Warnings      : 20
+Info          : 50
+
+____TOP ISSUES_____
+Most Common Error  :       9   ERROR Null pointer exception
+Most Common Warning:       8   WARNING Cache miss
+
+_____PEAK ACTIVITY______
+Business Hour :       8 14:00
+
+__ERROR BREAKDOWN__
+      9   ERROR Null pointer exception
+      7   ERROR File not found
+      5   ERROR Timeout exceeded
+      5   ERROR Database failed
+      4   ERROR Out of memory
+
+__WARNING BREAKDOWN__
+      8   WARNING Cache miss
+      4   WARNING Slow query
+      4   WARNING High CPU Usage
+      4   WARNING Disk space low
+====================================================
