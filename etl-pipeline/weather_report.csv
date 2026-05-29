@@ -1,0 +1,6 @@
+City, Temperature_C, FeelsLike_C, Humidity_%, Wind_kmph, Condition
+Mumbai,34,43,56,15,Sunny
+Delhi,39,39,33,5,Haze
+Bangalore,31,32,59,13,Partly cloudy
+Chennai,39,41,48,21,Sunny
+Kolkata,33,33,67,22,Haze

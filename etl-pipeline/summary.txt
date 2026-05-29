@@ -1,0 +1,24 @@
+========================================================
+              WEATHER ETL REPORT
+========================================================
+Generated At : Thursday 28 May 2026 02:26:26 PM IST
+Cities       : Mumbai Delhi Bangalore Chennai Kolkata
+
+__________RAW DATA_____________
+Mumbai       Temp:34  C Feels:43  C Humidity:56  % Wind:15  kmph Sunny
+Delhi        Temp:39  C Feels:39  C Humidity:33  % Wind:5   kmph Haze
+Bangalore    Temp:31  C Feels:32  C Humidity:59  % Wind:13  kmph Partly cloudy
+Chennai      Temp:39  C Feels:41  C Humidity:48  % Wind:21  kmph Sunny
+Kolkata      Temp:33  C Feels:33  C Humidity:67  % Wind:22  kmph Haze
+
+_________TEMPERATURE STATS_____
+Average : 35.2 C
+Highest : 39 C
+Lowest : 31 C
+
+________HUMIDITY STATS__________
+Average : 52.6%
+Highest : 67%
+Lowest : 33%
+
+==========================================================
